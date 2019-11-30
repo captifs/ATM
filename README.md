@@ -12,7 +12,7 @@ struct s_history *next;
 
 `next` - pentru a face legatura cu urmatorul nod
 
-A doua lista am construito pentru a memora toata informatia a unui card: 
+A doua lista am construit-o pentru a memora toata informatia a unui card: 
 
 ```c
 typedef struct s_card { 
