@@ -1,4 +1,4 @@
-#ATM
+# ATM
 
 In acest program construit mai intii 3 structuri, toate fiind niste liste simplu inlantuita.
 
